@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 Here's a walkthrough of implemented user stories:
 
 
-![Kapture 2023-08-16 at 12 09 20](https://github.com/Iamdk25/Codepath-iOS-DEV-1/assets/113271413/eceac597-512d-4cb5-b6e5-037d5b67b295)
+![Kapture 2023-08-18 at 18 50 51](https://github.com/Iamdk25/Codepath-Prework-iOS-Dev/assets/113271413/5866dd45-d0e7-4923-ba59-6f064d539705)
 
 <!-- Kap -->
 GIF created with  Kap (https://getkap.co/) for macOS
